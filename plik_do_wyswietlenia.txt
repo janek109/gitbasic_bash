@@ -1,0 +1,1 @@
+To powinno się wyświetlić w terminalu po użyciu polecenia cat
